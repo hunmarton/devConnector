@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://hunmarton:Muntitle15@devconnector.nqxfx.mongodb.net/MERN?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
